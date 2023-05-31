@@ -1,0 +1,6 @@
+---
+# tasks file for neeraj-role
+#
+- name: check
+  debug:
+    msg: "Test"
