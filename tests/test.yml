@@ -1,4 +1,4 @@
 ---
 - hosts: "{{ affected_host }}"
   roles:
-    - neeraj-role
+    - ansible-role-test
