@@ -3,4 +3,4 @@
 #
 - name: check
   debug:
-    msg: "Testing workflow"
+    msg: "Testing workflow 2"
